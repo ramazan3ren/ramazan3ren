@@ -35,7 +35,7 @@
 
 
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan3ren&langs_count=8)](https://github.com/ramazan3ren/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan3ren&langs_count=8&theme=radical)](https://github.com/ramazan3ren/github-readme-stats)
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramazan3ren&repo=github-readme-stats)](https://github.com/ramazan3ren/github-readme-stats) -->
 
