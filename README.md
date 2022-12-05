@@ -31,7 +31,7 @@
 
 
 ## Badges
-[![ramazan3ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramazan3ren&show_icons=true&theme=radical)]
+![ramazan3ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramazan3ren&show_icons=true&theme=radical)
 
 ## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan3ren&langs_count=8)](https://github.com/ramazan3ren/github-readme-stats)
