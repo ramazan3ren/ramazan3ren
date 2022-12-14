@@ -39,6 +39,13 @@
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramazan3ren&repo=github-readme-stats)](https://github.com/ramazan3ren/github-readme-stats) -->
 
+## Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ramazan3ren&theme=radical&ring=4675b8)](https://git.io/streak-stats)
+
+
+## Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=ramazan3ren&theme=radical&bg_color=000000)](https://github.com/ramazan3ren/github-profile-trophy)
+
 
 
 ## Buy Me A Coffe
