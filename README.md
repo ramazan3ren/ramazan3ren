@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/5nvQ7fBWhPVXXOcfRI/giphy.gif" align="top" style="width: 300;" >
+<img src="https://media.giphy.com/media/5nvQ7fBWhPVXXOcfRI/giphy.gif" align="center" style="width: 300;" >
 
 <h1>Hi there, I'm Ramazan Eren</h1>
 <h3>Junior Developer</h3>
