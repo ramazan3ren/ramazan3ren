@@ -1,33 +1,19 @@
-<h1>Hi there, I'm Ramazan Eren 😎 <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" align="right"></h1>
-<h3>Junior Flutter Developer</h3>
+<h1>Hi there, I'm Ramazan Eren</h1>
+<img src="https://media.giphy.com/media/5nvQ7fBWhPVXXOcfRI/giphy.gif" align="right" style="width: 350;" >
+<h3>Junior Developer</h3>
 
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=<Eren>&logoColor=red&color=blue)
-![](https://img.shields.io/badge/Languages-Dart-informational?style=flat&logo=<>&logoColor=red&color=blue)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=<Eren>&logoColor=red&color=blue)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=<>&logoColor=red&color=yellow)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=<>&logoColor=red&color=red)
 
 ## What technology am I learning?
 
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<p align="left" style="display: flex; flex-direction: row; align-items: center; justify-content: space-around; width:300">
+<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50"alt="React" /></a>
+<a  target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50" alt="Javascript" /></a>
+<a  target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" width="30" alt="Java" /></a>
 </p>
 
-## My Social Media Accounts
-
-<p align="left"> 
-<a href="http://www.instagram.com/ramazan3ren" target="_blank" rel="noreferrer"><img width="30" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left"/></a>
-
-<a href="https://www.twitter.com/ramazan3ren" target="_blank" rel="noreferrer"><img width="30" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left"/></a>
-
-<a href="https://medium.com/@ramazan3ren" target="_blank" rel="noreferrer"><img width="30" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" align="left"/></a>
-
-<a href="https://www.github.com/ramazan3ren" target="_blank" rel="noreferrer"><img width="30" src="https://unpkg.com/simple-icons@v4/icons/github.svg" align="left"/></a>
-
-<a href="https://www.twitch.com/ramazan3ren" target="_blank" rel="noreferrer"><img width="30" src="https://unpkg.com/simple-icons@v4/icons/twitch.svg" align="left"/></a>
-
-<a href="https://www.linkedin.com/in/ramazan3ren/" target="_blank" rel="noreferrer"><img width="30" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left"/></a>
-
-<a href="https://stackoverflow.com/users/17768110/ramazan-eren" target="_blank" rel="noreferrer"><img width="30" src="https://unpkg.com/simple-icons@v4/icons/stackoverflow.svg"/></a>
-</p>
 
 
 ## Badges
@@ -45,10 +31,5 @@
 
 ## Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=ramazan3ren&theme=radical&bg_color=000000)](https://github.com/ramazan3ren/github-profile-trophy)
-
-
-
-## Buy Me A Coffe
-<a href="https://www.buymeacoffee.com/ramazan3ren"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
