@@ -1,5 +1,6 @@
+<img src="https://media.giphy.com/media/5nvQ7fBWhPVXXOcfRI/giphy.gif" align="top" style="width: 300;" >
+
 <h1>Hi there, I'm Ramazan Eren</h1>
-<img src="https://media.giphy.com/media/5nvQ7fBWhPVXXOcfRI/giphy.gif" align="right" style="width: 300;" >
 <h3>Junior Developer</h3>
 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=<Eren>&logoColor=red&color=blue)
