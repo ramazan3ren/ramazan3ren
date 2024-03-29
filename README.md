@@ -27,7 +27,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramazan3ren&repo=github-readme-stats)](https://github.com/ramazan3ren/github-readme-stats) -->
 
 ## Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ramazan3ren&theme=radical&ring=4675b8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramazan3ren&theme=dark&hide_border=true&border_radius=20&locale=tr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 ## Achievements
